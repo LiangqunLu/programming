@@ -113,6 +113,9 @@
 - [LeetCode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) - Essential interview preparation with 150 must-do questions
 - [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) - Curated list of 75 frequently asked coding interview questions
 - [LeetCode 剑指 Offer Special](https://leetcode.cn/studyplan/coding-interviews-special/) - Collection of 119 problems from the Chinese version of "Coding Interviews"
+- [LeetCode Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) - 75 questions to prepare for coding interviews
+- [14 Patterns to Ace Any Coding Interview Question](https://leetcode.com/discuss/general-discussion/662972/14-Patterns-to-Ace-Any-Coding-Interview-Question) - 14 patterns to solve any coding interview question
+- [Grind 75](https://www.techinterviewhandbook.org/grind75) - 75 questions to practice for coding interviews
 - [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/) - Top 50 SQL problems for interview preparation
 - [LeetCode 30 Days of Pandas](https://leetcode.com/studyplan/30-days-of-pandas/) - Month-long study plan for data manipulation with Pandas
 - [HackerRank](https://www.hackerrank.com/) - Platform for practicing coding skills across multiple domains
