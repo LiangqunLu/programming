@@ -8,6 +8,21 @@ LeetCode SQL 题目通常包括以下类型：
 - 聚合函数：如 COUNT、SUM、MAX、MIN 等
 - 窗口函数：如 RANK、ROW_NUMBER、PARTITION BY 等
 - 子查询和复杂查询：嵌套查询、WITH 子句等
+- 数据操作：
+  - CREATE：创建数据库对象（表、视图、索引等）
+  - INSERT：插入新数据
+  - UPDATE：更新现有数据
+  - DELETE：删除数据
+- 排序和分组：ORDER BY、GROUP BY、HAVING 等
+- 字符串函数：CONCAT、SUBSTRING、REPLACE、REGEXP 等
+- 条件语句：CASE WHEN、IF、IFNULL、NULLIF、COALESCE 等
+- 数据过滤：WHERE、HAVING、EXISTS、IN、BETWEEN 等
+- 集合操作：UNION、INTERSECT、EXCEPT 等
+- 百分比计算：
+  - 基础百分比：COUNT(*) * 100.0 / COUNT(*) OVER()
+  - 分组百分比：PARTITION BY
+  - 累计百分比：SUM() OVER(ORDER BY)
+  - 层级统计：WITH ROLLUP / GROUPING SETS
 
 ## 高难度题目类型
 
@@ -48,7 +63,7 @@ LeetCode SQL 题目通常包括以下类型：
 ### 9. 事务控制 (Transaction Control)
 - 使用 BEGIN, COMMIT, ROLLBACK 等
 - 管理数据库事务
-- 确保数据一致性和可靠性
+- 确保数据一致性和靠性
 
 ## 学习建议
 
